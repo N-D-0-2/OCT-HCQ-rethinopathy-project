@@ -4,7 +4,7 @@ This project explores the possibility of using AI to diagnose HCQ retinopathy on
 
 ## Dataset
 
-The dataset consists of 657 OCT scans from 308 patients. Each patient has multiple scans of both eyes, captured at different times, representing the progression of the disease. Of these, 122 scans** show signs of retinopathy.
+The dataset consists of 657 OCT scans from 308 patients. Each patient has multiple scans of both eyes, captured at different times, representing the progression of the disease. Of these, 122 scans show signs of retinopathy.
 
 - **Training Set**: 60% of the dataset.
 - **Validation Set**: 20% of the dataset.
