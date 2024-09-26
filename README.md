@@ -9,7 +9,8 @@ The dataset consists of 657 OCT scans from 308 patients. Each patient has multip
 - **Training Set**: 60% of the dataset.
 - **Validation Set**: 20% of the dataset.
 - **Test Set**: 20% of the dataset.
-- **Validation**: 5-fold cross-validation on the training set.
+
+- **Validation**: 5-fold cross-validation on the training set/
 
 ## Key Approaches and Models
 
@@ -27,8 +28,9 @@ The best models achieved the following performance at 90% recall:
 - **Single Model Approach**: 54% specificity.
 - **Ensemble Model Approach**: 58% specificity.
 
-For additional results, ROC curves, and training plots, please refer to the `documentation.md` file or the report linked above.
+For additional results, ROC curves, and training plots, please refer to the detailed report. 
 
 ## Usage
 
-The notebook is intended to run on Google Colab. To save or access files such as the model config or the dataset, it is necessary to mount a Google Drive. 
+The notebook is intended to run on Google Colab. To save or access files such as the model config or the dataset, it is necessary to mount a Google Drive.
+**Access the project with this link :** https://drive.google.com/drive/folders/1GFUV0wFicjKe_1vFqpnPL56a3qRcTgud?usp=sharing
